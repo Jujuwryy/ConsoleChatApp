@@ -1,0 +1,204 @@
+[2025-04-30 09:23:12] Server started on 127.0.0.1:55556
+[2025-04-30 09:23:50] George2 connected.
+[2025-04-30 09:24:09] Server started on 127.0.0.1:55556
+[2025-04-30 09:24:15] seth connected.
+[2025-04-30 09:24:24] George2 connected.
+[2025-04-30 09:24:26] George2: Hello
+[2025-04-30 09:24:30] seth: Hello
+[2025-04-30 09:24:39] seth: /hel
+[2025-04-30 09:25:59] George2: /who is seth
+[2025-04-30 09:27:42] seth: /brodcast hello
+[2025-04-30 09:28:31] seth: /whoami
+[2025-04-30 09:41:58] seth has disconnected.
+[2025-04-30 09:41:59] George2 has disconnected.
+[2025-04-30 09:54:21] Server started on 127.0.0.1:55556
+[2025-04-30 09:54:36] seth connected.
+[2025-04-30 09:54:47] seth has disconnected.
+[2025-04-30 10:01:50] Server started on 127.0.0.1:55556
+[2025-04-30 10:02:00] seth connected.
+[2025-04-30 10:02:22] New user registered: Brandon
+[2025-04-30 10:02:32] Brandon: Yo
+[2025-04-30 10:02:38] seth: /online
+[2025-04-30 10:03:01] seth: whois Brandon
+[2025-04-30 10:17:34] seth has disconnected.
+[2025-04-30 10:18:07] SUCCESS: Server started on 127.0.0.1:55556
+[2025-04-30 10:18:19] INFO: New connection from 127.0.0.1:58397
+[2025-04-30 10:18:40] INFO: New connection from 127.0.0.1:58398
+[2025-04-30 10:18:47] SUCCESS: New user registered: Abe
+[2025-04-30 10:18:53] Abe: ..
+[2025-04-30 10:18:53] Abe: .
+[2025-04-30 10:18:53] Abe: .
+[2025-04-30 10:18:55] Abe: dl
+[2025-04-30 10:18:57] INFO: 
+Shutting down server...
+[2025-04-30 10:18:58] SUCCESS: Server shutdown complete.
+[2025-04-30 10:22:08] Server started on 127.0.0.1:55556
+[2025-04-30 10:23:15] Server started on 127.0.0.1:55556
+[2025-04-30 10:26:05] Server started on 127.0.0.1:55556
+[2025-04-30 10:26:12] seth connected.
+[2025-04-30 10:26:16] seth: hello
+[2025-04-30 10:30:43] seth: hyd
+[2025-04-30 10:30:46] seth has disconnected.
+[2025-04-30 12:32:17] Server started on 127.0.0.1:55556
+[2025-04-30 13:56:35] Server started on 127.0.0.1:55556
+[2025-04-30 13:57:11] seth connected.
+[2025-04-30 13:58:13] New user registered: Alphonso
+[2025-04-30 13:58:21] Alphonso: hello
+[2025-04-30 13:58:30] seth: yo, hey
+[2025-04-30 14:02:59] Server started on 127.0.0.1:55556
+[2025-04-30 14:03:12] seth connected.
+[2025-04-30 14:03:15] seth: Hello
+[2025-04-30 14:03:33] New user registered: Ant
+[2025-04-30 14:03:51] Ant: yo
+[2025-04-30 14:03:54] Ant: wgatsg ood 
+[2025-04-30 14:04:48] seth: /d
+[2025-04-30 14:05:25] seth: aight im out bet
+[2025-04-30 14:05:37] Ant: peace
+[2025-04-30 14:09:10] Server started on 127.0.0.1:55556
+[2025-04-30 14:09:21] New connection from 127.0.0.1:63634
+[2025-04-30 14:09:28] New connection from 127.0.0.1:63635
+[2025-04-30 14:09:33] seth connected.
+[2025-04-30 14:09:44] George2 connected.
+[2025-04-30 14:09:48] seth: hello
+[2025-04-30 14:09:51] George2: im out
+[2025-04-30 14:10:00] seth: later brotha
+[2025-04-30 14:11:47] Server shutdown initiated
+[2025-04-30 14:14:41] Server started on 127.0.0.1:55556
+[2025-04-30 14:14:45] New connection from 127.0.0.1:63707
+[2025-04-30 14:14:50] New connection from 127.0.0.1:63708
+[2025-04-30 14:14:53] seth connected.
+[2025-04-30 14:15:01] George2 connected.
+[2025-04-30 14:15:03] George2: hello
+[2025-04-30 14:15:05] seth: hello
+[2025-04-30 14:15:08] seth: /online
+[2025-04-30 14:15:23] George2: later brug
+[2025-04-30 14:15:29] George2 has disconnected.
+[2025-04-30 14:15:29] Socket for George2 closed successfully
+[2025-04-30 14:15:29] Client error (George2): [Errno 9] Bad file descriptor
+[2025-04-30 14:15:29] Broadcast disconnect notification for George2
+[2025-04-30 14:15:29] User George2 disconnected. 0 active users remain.
+[2025-04-30 14:15:29] Socket for unknown closed successfully
+[2025-04-30 14:15:29] Thread cleanup complete for George2
+[2025-04-30 14:15:51] seth: hello
+[2025-04-30 14:15:55] seth: im still here?
+[2025-04-30 14:16:01] seth: /wave e
+[2025-04-30 14:16:12] seth has disconnected.
+[2025-04-30 14:16:12] Last user (seth) has disconnected. Server is now empty.
+[2025-04-30 14:16:12] Socket for seth closed successfully
+[2025-04-30 14:16:12] Client error (seth): [Errno 9] Bad file descriptor
+[2025-04-30 14:16:12] Broadcast disconnect notification for seth
+[2025-04-30 14:16:12] User seth disconnected. -1 active users remain.
+[2025-04-30 14:16:12] Socket for unknown closed successfully
+[2025-04-30 14:16:12] Thread cleanup complete for seth
+[2025-04-30 14:21:14] Server shutdown initiated
+[2025-04-30 14:21:24] Server started on 127.0.0.1:55556
+[2025-04-30 14:21:29] New connection from 127.0.0.1:63826
+[2025-04-30 14:21:36] New connection from 127.0.0.1:63827
+[2025-04-30 14:21:45] Socket for unknown closed successfully
+[2025-04-30 14:21:52] New connection from 127.0.0.1:63828
+[2025-04-30 14:21:57] New user registered: seth1
+[2025-04-30 14:21:59] Socket for unknown closed successfully
+[2025-04-30 14:22:16] Server shutdown initiated
+[2025-04-30 14:22:24] Server started on 127.0.0.1:55556
+[2025-04-30 14:22:28] New connection from 127.0.0.1:63831
+[2025-04-30 14:22:32] seth connected.
+[2025-04-30 14:23:02] New connection from 127.0.0.1:63832
+[2025-04-30 14:23:08] George2 connected.
+[2025-04-30 14:23:10] seth: hello
+[2025-04-30 14:23:12] George2: hey
+[2025-04-30 14:23:18] George2 has disconnected.
+[2025-04-30 14:23:18] Socket for George2 closed successfully
+[2025-04-30 14:23:18] Client error (George2): [Errno 9] Bad file descriptor
+[2025-04-30 14:23:18] Broadcast disconnect notification for George2
+[2025-04-30 14:23:18] User George2 disconnecting. Currently 1 active user(s), will be 0 after disconnect.
+[2025-04-30 14:23:18] Socket for unknown closed successfully
+[2025-04-30 14:23:18] Thread cleanup complete for George2
+[2025-04-30 14:23:32] seth has disconnected.
+[2025-04-30 14:23:32] Last user (seth) has disconnected. Server is now empty.
+[2025-04-30 14:23:32] Socket for seth closed successfully
+[2025-04-30 14:23:32] Client error (seth): [Errno 9] Bad file descriptor
+[2025-04-30 14:23:32] Broadcast disconnect notification for seth
+[2025-04-30 14:23:32] User seth disconnecting. Currently 0 active user(s), will be -1 after disconnect.
+[2025-04-30 14:23:32] Socket for unknown closed successfully
+[2025-04-30 14:23:32] Thread cleanup complete for seth
+[2025-04-30 14:23:51] Server shutdown initiated
+[2025-04-30 14:25:28] Server started on 127.0.0.1:55556
+[2025-04-30 14:25:29] New connection from 127.0.0.1:63887
+[2025-04-30 14:25:30] New connection from 127.0.0.1:63888
+[2025-04-30 14:25:36] George2 connected.
+[2025-04-30 14:25:38] George2: Hello
+[2025-04-30 14:25:43] seth connected.
+[2025-04-30 14:25:47] seth: hi
+[2025-04-30 14:25:49] seth has disconnected.
+[2025-04-30 14:25:49] User count before disconnect: 2, after disconnect: 1
+[2025-04-30 14:25:49] Server has 1 active user remaining
+[2025-04-30 14:25:49] Socket for seth closed successfully
+[2025-04-30 14:25:49] Client error (seth): [Errno 9] Bad file descriptor
+[2025-04-30 14:25:49] Broadcast disconnect notification for seth
+[2025-04-30 14:25:49] Socket for unknown closed successfully
+[2025-04-30 14:25:49] Thread cleanup complete for seth
+[2025-04-30 14:26:02] George2: bye sethy
+[2025-04-30 14:26:04] George2 has disconnected.
+[2025-04-30 14:26:04] User count before disconnect: 1, after disconnect: 0
+[2025-04-30 14:26:04] Last user (George2) has disconnected. Server is now empty.
+[2025-04-30 14:26:04] Socket for George2 closed successfully
+[2025-04-30 14:26:04] Client error (George2): [Errno 9] Bad file descriptor
+[2025-04-30 14:26:04] Broadcast disconnect notification for George2
+[2025-04-30 14:26:04] Socket for unknown closed successfully
+[2025-04-30 14:26:04] Thread cleanup complete for George2
+[2025-04-30 14:29:29] Server shutdown initiated
+[2025-04-30 14:29:35] Server started on 127.0.0.1:55556
+[2025-04-30 14:29:39] New connection from 127.0.0.1:63954
+[2025-04-30 14:29:44] seth connected.
+[2025-04-30 14:29:46] seth: goodbye
+[2025-04-30 14:29:50] seth has disconnected.
+[2025-04-30 14:29:50] User count before disconnect: 1, after disconnect: 0
+[2025-04-30 14:29:50] Last user (seth) has disconnected. Server is now empty.
+[2025-04-30 14:29:50] Socket for seth closed successfully
+[2025-04-30 14:29:50] Client error (seth): [Errno 9] Bad file descriptor
+[2025-04-30 14:29:50] Broadcast disconnect notification for seth
+[2025-04-30 14:29:50] Thread cleanup complete for seth
+[2025-04-30 14:40:11] New connection from 127.0.0.1:64006
+[2025-04-30 14:40:16] Socket for unknown closed successfully
+[2025-04-30 14:40:25] New connection from 127.0.0.1:64007
+[2025-04-30 14:40:29] seth connected.
+[2025-04-30 14:40:31] seth: hello
+[2025-04-30 14:40:36] seth: hi
+[2025-04-30 14:40:41] seth: /qui
+[2025-04-30 14:40:42] seth has disconnected.
+[2025-04-30 14:40:42] User count before disconnect: 1, after disconnect: 0
+[2025-04-30 14:40:42] Last user (seth) has disconnected. Server is now empty.
+[2025-04-30 14:40:42] Socket for seth closed successfully
+[2025-04-30 14:40:42] Client error (seth): [Errno 9] Bad file descriptor
+[2025-04-30 14:40:42] Broadcast disconnect notification for seth
+[2025-04-30 14:40:42] Thread cleanup complete for seth
+[2025-04-30 21:25:04] Server started on 127.0.0.1:55556
+[2025-04-30 21:25:54] New connection from 127.0.0.1:55078
+[2025-04-30 21:26:04] seth connected.
+[2025-04-30 21:26:19] seth: Hello
+[2025-04-30 21:26:20] seth: Hi
+[2025-04-30 21:41:17] New connection from 127.0.0.1:55236
+[2025-04-30 21:41:23] George2 connected.
+[2025-04-30 21:41:26] George2: Hello seth
+[2025-04-30 21:41:31] seth: Hello George2!
+[2025-04-30 21:42:17] George2 has disconnected.
+[2025-04-30 21:42:17] User count before disconnect: 2, after disconnect: 1
+[2025-04-30 21:42:17] Server has 1 active user remaining
+[2025-04-30 21:42:17] Socket for George2 closed successfully
+[2025-04-30 21:42:17] Client error (George2): [Errno 9] Bad file descriptor
+[2025-04-30 21:42:17] Broadcast disconnect notification for George2
+[2025-04-30 21:42:17] Thread cleanup complete for George2
+[2025-04-30 21:42:35] Server shutdown initiated
+[2025-04-30 22:08:56] Server started on 127.0.0.1:55556
+[2025-04-30 22:09:08] New connection from 127.0.0.1:55586
+[2025-04-30 22:09:12] seth connected.
+[2025-04-30 22:09:14] seth: hello
+[2025-04-30 22:09:14] seth: bye
+[2025-04-30 22:09:19] seth has disconnected.
+[2025-04-30 22:09:19] User count before disconnect: 1, after disconnect: 0
+[2025-04-30 22:09:19] Last user (seth) has disconnected. Server is now empty.
+[2025-04-30 22:09:19] Socket for seth closed successfully
+[2025-04-30 22:09:19] Client error (seth): [Errno 9] Bad file descriptor
+[2025-04-30 22:09:19] Broadcast disconnect notification for seth
+[2025-04-30 22:09:19] Thread cleanup complete for seth
+[2025-04-30 22:09:23] Server shutdown initiated
