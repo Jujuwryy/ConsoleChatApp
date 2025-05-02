@@ -1,0 +1,27 @@
+# Sensitive data
+users.json
+users.json.bak
+message_history.json
+*.bak
+
+# Logs
+logs/
+*.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db 
