@@ -38,12 +38,9 @@ python -m chat_app.server
 python -m chat_app.client
 ```
 
-### Available Commands
+### Commands
 
-- `/help` - Display available commands
-- `/whisper <username> <message>` - Send a private message
-- `/online` - Show online users
-- `/exit` - Disconnect from the chat
+Use the `/help` command in the chat to see all available commands.
 
 ## Project Structure
 
@@ -52,6 +49,7 @@ python -m chat_app.client
   - `server/` - Server-side code
   - `config/` - Configuration settings
   - `utils/` - Utility functions
+  - `docs/` - Technical documentation
 
 ## License
 
