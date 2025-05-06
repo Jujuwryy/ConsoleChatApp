@@ -50,7 +50,3 @@ Use the `/help` command in the chat to see all available commands.
   - `config/` - Configuration settings
   - `utils/` - Utility functions
   - `docs/` - Technical documentation
-
-## License
-
-This project is available as open source under the terms of the MIT License. 
